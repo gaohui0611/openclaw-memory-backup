@@ -1,0 +1,10 @@
+{
+  "githubRepo": "openclaw-memory-backup",
+  "githubUser": "gaohui0611",
+  "branch": "main",
+  "backupDir": "/Users/gh/.openclaw-backup",
+  "sourceFiles": [
+    "/Users/gh/.claude/projects/-Users-gh/memory/MEMORY.md"
+  ],
+  "autoCommit": true
+}
