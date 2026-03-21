@@ -1,23 +1,60 @@
 # OpenClaw 记忆备份
 
-> 自动备份 OpenClaw 的活动记录和技能掌握情况
+> 最后更新: 2026-03-21
 
-## 目录结构
+## 📋 每日活动
 
-```
-├── daily/           # 每日备份
-│   └── YYYY-MM-DD/  # 按日期组织
-├── skills/          # 技能文档
-└── SKILL_MASTERY.md # 技能掌握报告
-```
+- 用户偏好规则 (CRITICAL - 每次对话启动时必须检查)
+- 文件位置
+- 核心规则
+- 已授权命令 (无需询问)
+- 系统
+- 重要习惯
+- Chrome 调试脚本
+- Agent Reach & MCP 配置
+- 个人博客项目
+- RedBookSkills 小红书发布
 
-## 功能
+## 🛠 使用的技能
 
-- 📦 每日自动备份 MEMORY.md
-- 📊 生成技能掌握报告
-- 🔄 自动同步到 GitHub
-- 📖 可浏览的文档结构
+- `Users`
+- `gh`
+- `user_preferences`
+- `settings`
+- `claude_propject`
+- `vscode_work`
+- `scripts`
+- `chrome`
+- `usr`
+- `local`
+- `bin`
+- `mcporter`
+- `config`
+- `12`
+- `gaohui0611`
+- `my`
+- `_posts`
+- `skills`
+- `redbookskills`
+- `projects`
+- `memory`
+- `tmp`
+- `xhs_title`
+- `xhs_content`
+- `publish_pipeline`
+- `cdp_publish`
+
+## 📚 新增知识
+
+- 暂无新增知识
+
+## 📁 备份文件
+
+| 文件 | 描述 |
+|------|------|
+| MEMORY.md | 用户记忆 |
+| SOUL.md | Agent 核心身份 |
 
 ---
 
-*由 [OpenClaw Memory Backup](https://github.com/gaohui0611/openclaw-memory-backup) 自动生成*
+*由 OpenClaw Memory Backup 自动生成*
